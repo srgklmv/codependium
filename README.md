@@ -16,6 +16,7 @@ TODO:
   - [ ] Flags package.
 - [ ] Computer science essentials
   - [ ] Network protocols
+  - [ ] How memory pointers works?
 - [ ] Algorithms and data structures - base level
 - [ ] Architecture patterns
 - [ ] Git
@@ -25,5 +26,7 @@ TODO:
   - [ ] Colon
 - [ ] Frameworks
 - [ ] Other technologies
-- [ ] How memory pointers works?
+- [ ] Угрозы безопасности
+  - [ ] XSS
+  - [ ] Injections
 
