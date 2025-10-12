@@ -29,4 +29,5 @@ TODO:
 - [ ] Угрозы безопасности
   - [ ] XSS
   - [ ] Injections
+  - [ ] CSRF
 
