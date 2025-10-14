@@ -14,6 +14,7 @@ TODO:
   - [ ] Atomics.
   - [ ] Packages and init functions.
   - [ ] Flags package.
+  - [ ] Actions with map. What happens on using nil-map?
 - [ ] Computer science essentials
   - [ ] Network protocols
   - [ ] How memory pointers works?
