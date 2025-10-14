@@ -15,6 +15,7 @@ TODO:
   - [ ] Packages and init functions.
   - [ ] Flags package.
   - [ ] Actions with map. What happens on using nil-map?
+  - [ ] Directed channels in compilator.
 - [ ] Computer science essentials
   - [ ] Network protocols
   - [ ] How memory pointers works?
