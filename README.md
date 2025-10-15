@@ -16,6 +16,7 @@ TODO:
   - [ ] Flags package.
   - [ ] Actions with map. What happens on using nil-map?
   - [ ] Directed channels in compilator.
+  - [ ] growslise vs nestslicecap differences
 - [ ] Computer science essentials
   - [ ] Network protocols
   - [ ] How memory pointers works?
