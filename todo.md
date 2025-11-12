@@ -15,6 +15,7 @@ TODO:
     - [ ] defer, scope, queue.
     - [ ] Atomics.
     - [ ] Виды многозадачности.
+    - [ ] Варианты объявления переменных.
 - [ ] Computer science essentials
     - [ ] Network protocols
     - [ ] How memory pointers works?
