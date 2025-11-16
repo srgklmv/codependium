@@ -32,3 +32,5 @@ TODO:
     - [ ] XSS
     - [ ] Injections
     - [ ] CSRF
+
+- [ ] Добавить принадлежность к comparable для каждого из типов.
